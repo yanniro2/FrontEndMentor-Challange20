@@ -20,9 +20,9 @@ function App()
   )
   return (
     <div className="App h-screen w-screen flex justify-center items-center bg-Cream m-0 p-0 box-border font-DmSans text-ms">
-      <div className="contant min-h-1/2  h-2/3 w-1/3 flex flex-col items-center gap-3 Mobile:w-full Mobile:p-3 Mobile:h-4/5 Tab:w-2/3">
+      <div className="contant min-h-1/2  h-2/3 w-1/3 flex flex-col items-center gap-3 Mobile:w-full Mobile:p-5 Mobile:h-4/5 Tab:w-2/3">
         {/* top */}
-        <div className="top w-full rounded-xl p-5 bg-Soft-red h-1/5 drop-shadow-sm text-Very-pale-orange flex justify-between items-center">
+        <div className="top w-full rounded-xl p-8 bg-Soft-red h-1/5 drop-shadow-sm text-Very-pale-orange flex justify-between items-center">
           {/* left */}
           <div className="left flex flex-col justify-center gap-1">
             <small className=" text-Cream font-[10px]">My balance</small>
@@ -32,7 +32,7 @@ function App()
           <img src={logo} alt="logo img" className="w-[3rem]" />
         </div>
         {/* Bottom */}
-        <div className="main w-full rounded-xl p-5 bg-Very-pale-orange h-4/5 drop-shadow-sm flex flex-col justify-between gap-2">
+        <div className="main w-full rounded-xl p-8 bg-Very-pale-orange h-4/5 drop-shadow-sm flex flex-col justify-between gap-2">
           <div className="w-full h-[70%] flex flex-col justify-between">
             <h3 className="font-xl text-Dark-brown">Spending - Last 7 Days</h3>
             {/* Section */}
