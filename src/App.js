@@ -19,8 +19,8 @@ function App()
 
   )
   return (
-    <div className="App h-screen w-screen flex justify-center items-center bg-Cream m-0 p-0 box-border font-DmSans text-ms">
-      <div className="contant min-h-1/2  h-2/3 w-1/3 flex flex-col items-center gap-3 Mobile:w-full Mobile:p-5 Mobile:h-4/5 Tab:w-2/3">
+    <div className="App h-screen w-screen flex justify-center items-center bg-Cream m-0 p-0 box-border font-DmSans text-ms Desktop:bg-[orange]">
+      <div className="contant min-h-1/2  h-2/3 w-1/3 flex flex-col items-center gap-3 Mobile:w-full Mobile:p-5 Mobile:h-4/5 Desktop:h-1/2">
         {/* top */}
         <div className="top w-full rounded-xl p-8 bg-Soft-red h-1/5 drop-shadow-sm text-Very-pale-orange flex justify-between items-center">
           {/* left */}
