@@ -16,7 +16,7 @@ module.exports = {
     screens: {
       Mobile: { "min": "375px", "max": "600px" },
       Tab: { "min": "600px", "max": "900px" },
-      Desktop: { "min": "1200px", "max": "1440px" },
+      Desktop: "1440px",
     },
     colors: {
       // primary
