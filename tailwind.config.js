@@ -1,7 +1,16 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    "./src/**/*.{js,jsx,ts,tsx}",
+    "./src/**/*.{html,js,jsx,ts,tsx}",
+  ],
+  safelist: [
+    "h-[35px]",
+    "h-[70px]",
+    "h-[105px]",
+    "h-[62px]",
+    "h-[47px]",
+    "h-[87px]",
+    "h-[51px]",
   ],
   theme: {
     screens: {
