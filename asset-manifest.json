@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/FrontEndMentor-Challange20/static/css/main.45b70b50.css",
-    "main.js": "/FrontEndMentor-Challange20/static/js/main.53eac442.js",
+    "main.css": "/FrontEndMentor-Challange20/static/css/main.8c3e58eb.css",
+    "main.js": "/FrontEndMentor-Challange20/static/js/main.2cc60aab.js",
     "static/js/787.a97cb00a.chunk.js": "/FrontEndMentor-Challange20/static/js/787.a97cb00a.chunk.js",
     "index.html": "/FrontEndMentor-Challange20/index.html",
     "static/media/logo.svg": "/FrontEndMentor-Challange20/static/media/logo.99d5b9138a1a64cc6858cdac9a9d3bd4.svg",
-    "main.45b70b50.css.map": "/FrontEndMentor-Challange20/static/css/main.45b70b50.css.map",
-    "main.53eac442.js.map": "/FrontEndMentor-Challange20/static/js/main.53eac442.js.map",
+    "main.8c3e58eb.css.map": "/FrontEndMentor-Challange20/static/css/main.8c3e58eb.css.map",
+    "main.2cc60aab.js.map": "/FrontEndMentor-Challange20/static/js/main.2cc60aab.js.map",
     "787.a97cb00a.chunk.js.map": "/FrontEndMentor-Challange20/static/js/787.a97cb00a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45b70b50.css",
-    "static/js/main.53eac442.js"
+    "static/css/main.8c3e58eb.css",
+    "static/js/main.2cc60aab.js"
   ]
 }
